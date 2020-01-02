@@ -23,7 +23,7 @@ The phone numbers will never contain a 0 or 1. Words have to be at least 3 chara
 
 ## Usage
 ```sh
-git clone https://github.com/hari696/phonenumber-to-words.git
+git clone ssh/https remote url
 cd phonenumber-to-words
 ruby solution.rb
 ```
